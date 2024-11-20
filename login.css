@@ -48,3 +48,8 @@ h2 {
   background-color: #0ef;
   cursor: pointer;
 }
+@media (min-width: 481px) and (max-width:768px) {
+  body {
+      background-color: green;
+  }
+}
